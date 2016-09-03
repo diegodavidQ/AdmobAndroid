@@ -2,5 +2,9 @@
     <string name="app_name">AdmobAndroid</string>
 
     <string name="bannerAdMob">ca-app-pub-1484441247455282/6631809854</string>
+    <string name="AdMob_intersticial">ca-app-pub-1484441247455282/4535967851</string>
+
+    <string name="IrActividad2">Ir a segunda actividad</string>
+    <string name="Regresar">Regresar</string>
 
 </resources>
